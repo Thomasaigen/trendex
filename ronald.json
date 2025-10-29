@@ -1,0 +1,19 @@
+{
+  "name": "Ronald Araujo",
+  "symbol": "ARAUJO",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/refs/heads/main/ronald.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/refs/heads/main/ronald.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
