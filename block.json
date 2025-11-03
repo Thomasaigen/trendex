@@ -1,0 +1,19 @@
+{
+  "name": "GMORE",
+  "symbol": "GMORE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/block2.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/block2.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://gmore.fun/",
+    "twitter": "https://x.com/gmore_fun",
+    "telegram": ""
+  }
+}
