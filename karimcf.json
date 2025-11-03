@@ -1,0 +1,19 @@
+{
+  "name": "Karim Benzema",
+  "symbol": "BENZEMA",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/karimcf.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/karimcf.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://benzema-trendex.gg/",
+    "twitter": "https://x.com/trendexgg",
+    "telegram": "https://t.me/trendexgg"
+  }
+}
