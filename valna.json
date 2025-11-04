@@ -1,0 +1,19 @@
+{
+  "name": "Valannia",
+  "symbol": "VALAN",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/valna.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/valna.png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://shadowveil.valannia.com/",
+    "twitter": "https://x.com/ValanniaGame",
+    "telegram": ""
+  }
+}
