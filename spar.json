@@ -1,0 +1,19 @@
+{
+  "name": "Elizaos Agent",
+  "symbol": "Spartan",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/spar.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/spar.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://farcaster.xyz/shawmakesmagic/0x6877d009",
+    "twitter": "https://x.com/wildlifetraderr/status/1986197306102755527",
+    "telegram": ""
+  }
+}
