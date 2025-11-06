@@ -1,0 +1,19 @@
+{
+  "name": "quantish",
+  "symbol": "QUANT",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/quant.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/quant.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://quantish.live/",
+    "twitter": "https://x.com/joinQuantish",
+    "telegram": ""
+  }
+}
