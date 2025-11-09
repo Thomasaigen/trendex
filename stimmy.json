@@ -1,0 +1,19 @@
+{
+  "name": "Stimmy Check",
+  "symbol": "STIMMY",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/stimmy.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/stimmy.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://stimmycheck.fun/",
+    "twitter": "https://x.com/stimmycheckfun",
+    "telegram": ""
+  }
+}
