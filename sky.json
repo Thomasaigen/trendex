@@ -1,0 +1,19 @@
+{
+  "name": "Skyscreen",
+  "symbol": "SKYSCREEN",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/sky.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/sky.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/skyscreenxyz",
+    "telegram": ""
+  }
+}
