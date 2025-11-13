@@ -1,0 +1,19 @@
+{
+  "name": "Racer",
+  "symbol": "RACER",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/racer4.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/racer4.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://racer.fun/",
+    "twitter": "https://x.com/racer_dot_fun",
+    "telegram": ""
+  }
+}
