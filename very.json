@@ -1,0 +1,19 @@
+{
+  "name": "Very",
+  "symbol": "VERY",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/very.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/very.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://very.org/",
+    "twitter": "https://x.com/Surgexyz_",
+    "telegram": ""
+  }
+}
