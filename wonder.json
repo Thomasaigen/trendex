@@ -1,0 +1,19 @@
+{
+  "name": "NAVI w0nderful",
+  "symbol": "W0NDERFUL",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/wonder.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/wonder.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.drafted.fun/",
+    "twitter": "https://x.com/drafteddotfun",
+    "telegram": ""
+  }
+}
