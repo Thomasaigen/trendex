@@ -1,0 +1,19 @@
+{
+  "name": "NRG nitr0",
+  "symbol": "NITR0",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/nitro.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/nitro.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.drafted.fun/",
+    "twitter": "https://x.com/drafteddotfun",
+    "telegram": ""
+  }
+}
