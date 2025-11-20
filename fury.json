@@ -1,0 +1,19 @@
+{
+  "name": "FURBABY",
+  "symbol": "FURBABY",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/fury.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/fury.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/solana/status/1991574720945529029",
+    "telegram": ""
+  }
+}
