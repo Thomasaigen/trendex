@@ -1,0 +1,19 @@
+{
+  "name": "AnonScreener",
+  "symbol": "ANONSCREENER",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/anon.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/trendex/main/anon.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/AnonScreener",
+    "telegram": ""
+  }
+}
